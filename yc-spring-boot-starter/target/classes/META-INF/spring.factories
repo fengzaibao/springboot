@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yc.yc_spring_boot_starter.YcAppConfig
